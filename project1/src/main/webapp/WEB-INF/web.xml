@@ -1,0 +1,191 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+	<display-name>Archetype Created Web Application</display-name>
+	<servlet>
+		<servlet-name>Hello</servlet-name>
+		<servlet-class>com.revature.service.HelloServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>Login</servlet-name>
+		<servlet-class>com.revature.controller.LoginServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>Logout</servlet-name>
+		<servlet-class>com.revature.controller.LogoutServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>Signup</servlet-name>
+		<servlet-class>com.revature.controller.SignupServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>RequestReimb</servlet-name>
+		<servlet-class>com.revature.controller.RequestReimbServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>EmployeeRecords</servlet-name>
+		<servlet-class>com.revature.controller.EmployeeRecordsServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>ManagerPending</servlet-name>
+		<servlet-class>com.revature.controller.ManagerPendingServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>ManagerAppr</servlet-name>
+		<servlet-class>com.revature.controller.ManagerApprServlet</servlet-class>
+	
+	</servlet>
+	
+	<servlet>
+		<servlet-name>DeptHeadPending</servlet-name>
+		<servlet-class>com.revature.controller.DeptHeadPendingServlet</servlet-class>
+	
+	</servlet>
+	
+	<servlet>
+		<servlet-name>DeptHeadAppr</servlet-name>
+		<servlet-class>com.revature.controller.DeptHeadApprServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>BenCoPending</servlet-name>
+		<servlet-class>com.revature.controller.BencoPendingServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>BenCoAppr</servlet-name>
+		<servlet-class>com.revature.controller.BencoApprServlet</servlet-class>
+	
+	</servlet>
+	
+	
+<!-- <servlet>
+		<servlet-name>Course</servlet-name>
+		<servlet-class>com.revature.service.CourseServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>Email</servlet-name>
+		<servlet-class>com.revature.service.EmailServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>Person</servlet-name>
+		<servlet-class>com.revature.service.PersonServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>Position</servlet-name>
+		<servlet-class>com.revature.service.PositionServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>Reimb</servlet-name>
+		<servlet-class>com.revature.service.ReimbServlet</servlet-class>
+	</servlet>
+	 -->
+	
+
+	<servlet-mapping>
+		<servlet-name>Hello</servlet-name>
+		<url-pattern>/hello</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>Login</servlet-name>
+		<url-pattern>/login</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>Logout</servlet-name>
+		<url-pattern>/logout</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>Signup</servlet-name>
+		<url-pattern>/signup</url-pattern>
+	
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>RequestReimb</servlet-name>
+		<url-pattern>/requestreimb</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>EmployeeRecords</servlet-name>
+		<url-pattern>/employeerecords</url-pattern>
+	
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>ManagerPending</servlet-name>
+		<url-pattern>/managerpending</url-pattern>
+	
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>ManagerAppr</servlet-name>
+		<url-pattern>/managerappr</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>DeptHeadPending</servlet-name>
+		<url-pattern>/deptheadpending</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>DeptHeadAppr</servlet-name>
+		<url-pattern>/deptheadappr</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>BenCoPending</servlet-name>
+		<url-pattern>/bencopending</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>BenCoAppr</servlet-name>
+		<url-pattern>/bencoappr</url-pattern>
+	
+	</servlet-mapping>
+	
+
+
+
+<!--
+	<servlet-mapping>
+		<servlet-name>Course</servlet-name>
+		<url-pattern>/course</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>Email</servlet-name>
+		<url-pattern>/email</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>Person</servlet-name>
+		<url-pattern>/person</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>Position</servlet-name>
+		<url-pattern>/position</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>Reimb</servlet-name>
+		<url-pattern>/reimb</url-pattern>
+	</servlet-mapping>
+-->
+</web-app>

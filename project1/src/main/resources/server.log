@@ -1,0 +1,56 @@
+INFO  | 2021-07-01 11:55:22 | [main] logs.EmployeeLog (EmployeeLog.java:11) - Employee created. Employee id: 21, First name: f, Last name: l, position: 1
+INFO  | 2021-07-01 11:58:21 | [main] logs.EmployeeLog (EmployeeLog.java:37) - Get All employees. count: 9
+INFO  | 2021-07-01 12:19:59 | [main] logs.PositionLog (PositionLog.java:29) - position delete. id: 6
+INFO  | 2021-07-01 20:21:00 | [main] logs.EmployeeLog (EmployeeLog.java:13) - Employee created. Employee id: 22, First name: null, Last name: null, position: 1
+INFO  | 2021-07-01 20:21:34 | [main] logs.EmployeeLog (EmployeeLog.java:13) - Employee created. Employee id: 23, First name: null, Last name: null, position: 1
+INFO  | 2021-07-01 20:32:25 | [main] logs.EmployeeLog (EmployeeLog.java:25) - Get Employee. Employee id: 4, First name: poke, Last name: mon, position: 2
+INFO  | 2021-07-01 20:32:25 | [main] logs.EmployeeLog (EmployeeLog.java:13) - Employee created. Employee id: 24, First name: null, Last name: null, position: 1
+INFO  | 2021-07-01 20:36:42 | [main] logs.EmployeeLog (EmployeeLog.java:37) - Get All employees. count: 12
+INFO  | 2021-07-01 20:36:42 | [main] logs.EmployeeLog (EmployeeLog.java:25) - Get Employee. Employee id: 4, First name: poke, Last name: mon, position: 2
+INFO  | 2021-07-01 20:36:42 | [main] logs.EmployeeLog (EmployeeLog.java:13) - Employee created. Employee id: 25, First name: null, Last name: null, position: 1
+INFO  | 2021-07-01 20:38:43 | [main] logs.EmployeeLog (EmployeeLog.java:25) - Get Employee. Employee id: 4, First name: poke, Last name: mon, position: 2
+INFO  | 2021-07-01 20:38:43 | [main] logs.EmployeeLog (EmployeeLog.java:25) - Get Employee. Employee id: 4, First name: poke, Last name: mon, position: 2
+INFO  | 2021-07-01 20:38:43 | [main] logs.EmployeeLog (EmployeeLog.java:42) - update Employee. Employee id: 4, First name: updateFirstName, Last name: mon, position: 2
+INFO  | 2021-07-01 20:38:43 | [main] logs.EmployeeLog (EmployeeLog.java:37) - Get All employees. count: 13
+INFO  | 2021-07-01 20:38:43 | [main] logs.EmployeeLog (EmployeeLog.java:13) - Employee created. Employee id: 26, First name: null, Last name: null, position: 1
+INFO  | 2021-07-01 20:39:02 | [main] logs.EmployeeLog (EmployeeLog.java:25) - Get Employee. Employee id: 4, First name: updateFirstName, Last name: mon, position: 2
+INFO  | 2021-07-01 20:39:03 | [main] logs.EmployeeLog (EmployeeLog.java:25) - Get Employee. Employee id: 4, First name: updateFirstName, Last name: mon, position: 2
+INFO  | 2021-07-01 20:39:03 | [main] logs.EmployeeLog (EmployeeLog.java:42) - update Employee. Employee id: 4, First name: updateFirstName, Last name: mon, position: 2
+INFO  | 2021-07-01 20:39:03 | [main] logs.EmployeeLog (EmployeeLog.java:37) - Get All employees. count: 14
+INFO  | 2021-07-01 20:39:03 | [main] logs.EmployeeLog (EmployeeLog.java:13) - Employee created. Employee id: 27, First name: null, Last name: null, position: 1
+INFO  | 2021-07-01 20:39:39 | [main] logs.EmployeeLog (EmployeeLog.java:25) - Get Employee. Employee id: 4, First name: updateFirstName, Last name: mon, position: 2
+INFO  | 2021-07-01 20:39:39 | [main] logs.EmployeeLog (EmployeeLog.java:25) - Get Employee. Employee id: 4, First name: updateFirstName, Last name: mon, position: 2
+INFO  | 2021-07-01 20:39:39 | [main] logs.EmployeeLog (EmployeeLog.java:42) - update Employee. Employee id: 4, First name: updateFirstName, Last name: mon, position: 2
+INFO  | 2021-07-01 20:39:39 | [main] logs.EmployeeLog (EmployeeLog.java:37) - Get All employees. count: 15
+INFO  | 2021-07-01 20:39:39 | [main] logs.EmployeeLog (EmployeeLog.java:13) - Employee created. Employee id: 28, First name: null, Last name: null, position: 1
+INFO  | 2021-07-01 20:39:39 | [main] logs.EmployeeLog (EmployeeLog.java:54) - Deleted Employee. id: 4
+INFO  | 2021-07-01 20:40:26 | [main] logs.EmployeeLog (EmployeeLog.java:25) - Get Employee. Employee id: 4, First name: updateFirstName, Last name: mon, position: 2
+INFO  | 2021-07-01 20:40:26 | [main] logs.EmployeeLog (EmployeeLog.java:25) - Get Employee. Employee id: 4, First name: updateFirstName, Last name: mon, position: 2
+INFO  | 2021-07-01 20:40:26 | [main] logs.EmployeeLog (EmployeeLog.java:42) - update Employee. Employee id: 4, First name: updateFirstName, Last name: mon, position: 2
+INFO  | 2021-07-01 20:40:26 | [main] logs.EmployeeLog (EmployeeLog.java:37) - Get All employees. count: 16
+INFO  | 2021-07-01 20:40:26 | [main] logs.EmployeeLog (EmployeeLog.java:13) - Employee created. Employee id: 29, First name: null, Last name: null, position: 1
+INFO  | 2021-07-01 20:40:26 | [main] logs.EmployeeLog (EmployeeLog.java:54) - Deleted Employee. id: 28
+INFO  | 2021-07-01 22:07:30 | [main] logs.EmployeeLog (EmployeeLog.java:25) - Get Employee. Employee id: 4, First name: employee, Last name: test, position: 1
+INFO  | 2021-07-01 22:07:30 | [main] logs.EmployeeLog (EmployeeLog.java:25) - Get Employee. Employee id: 4, First name: employee, Last name: test, position: 1
+INFO  | 2021-07-01 22:07:30 | [main] logs.EmployeeLog (EmployeeLog.java:42) - update Employee. Employee id: 4, First name: updateFirstName, Last name: test, position: 1
+INFO  | 2021-07-01 22:07:30 | [main] logs.EmployeeLog (EmployeeLog.java:37) - Get All employees. count: 8
+INFO  | 2021-07-01 22:07:30 | [main] logs.EmployeeLog (EmployeeLog.java:13) - Employee created. Employee id: 31, First name: null, Last name: null, position: 1
+INFO  | 2021-07-01 22:07:30 | [main] logs.EmployeeLog (EmployeeLog.java:54) - Deleted Employee. id: 28
+INFO  | 2021-07-01 22:13:27 | [main] logs.EmployeeLog (EmployeeLog.java:25) - Get Employee. Employee id: 4, First name: updateFirstName, Last name: test, position: 1
+INFO  | 2021-07-01 22:13:27 | [main] logs.EmployeeLog (EmployeeLog.java:25) - Get Employee. Employee id: 4, First name: updateFirstName, Last name: test, position: 1
+INFO  | 2021-07-01 22:13:27 | [main] logs.EmployeeLog (EmployeeLog.java:42) - update Employee. Employee id: 4, First name: updateFirstName, Last name: test, position: 1
+INFO  | 2021-07-01 22:13:27 | [main] logs.EmployeeLog (EmployeeLog.java:37) - Get All employees. count: 9
+INFO  | 2021-07-01 22:13:27 | [main] logs.EmployeeLog (EmployeeLog.java:13) - Employee created. Employee id: 32, First name: null, Last name: null, position: 1
+INFO  | 2021-07-01 22:13:27 | [main] logs.EmployeeLog (EmployeeLog.java:54) - Deleted Employee. id: 32
+INFO  | 2021-07-01 22:15:05 | [main] logs.EmployeeLog (EmployeeLog.java:25) - Get Employee. Employee id: 4, First name: updateFirstName, Last name: test, position: 1
+INFO  | 2021-07-01 22:15:05 | [main] logs.EmployeeLog (EmployeeLog.java:25) - Get Employee. Employee id: 4, First name: updateFirstName, Last name: test, position: 1
+INFO  | 2021-07-01 22:15:05 | [main] logs.EmployeeLog (EmployeeLog.java:42) - update Employee. Employee id: 4, First name: updateFirstName, Last name: test, position: 1
+INFO  | 2021-07-01 22:15:05 | [main] logs.EmployeeLog (EmployeeLog.java:37) - Get All employees. count: 8
+INFO  | 2021-07-01 22:15:05 | [main] logs.EmployeeLog (EmployeeLog.java:13) - Employee created. Employee id: 33, First name: null, Last name: null, position: 1
+INFO  | 2021-07-01 22:15:05 | [main] logs.EmployeeLog (EmployeeLog.java:54) - Deleted Employee. id: 33
+INFO  | 2021-07-02 00:53:08 | [main] logs.EmployeeLog (EmployeeLog.java:25) - Get Employee. Employee id: 4, First name: updateFirstName, Last name: test, position: 1
+INFO  | 2021-07-02 00:53:08 | [main] logs.EmployeeLog (EmployeeLog.java:25) - Get Employee. Employee id: 4, First name: updateFirstName, Last name: test, position: 1
+INFO  | 2021-07-02 00:53:08 | [main] logs.EmployeeLog (EmployeeLog.java:42) - update Employee. Employee id: 4, First name: updateFirstName, Last name: test, position: 1
+INFO  | 2021-07-02 00:53:08 | [main] logs.EmployeeLog (EmployeeLog.java:37) - Get All employees. count: 7
+INFO  | 2021-07-02 00:53:08 | [main] logs.EmployeeLog (EmployeeLog.java:13) - Employee created. Employee id: 39, First name: null, Last name: null, position: 1
+INFO  | 2021-07-02 00:53:08 | [main] logs.EmployeeLog (EmployeeLog.java:54) - Deleted Employee. id: 39
